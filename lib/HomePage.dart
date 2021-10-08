@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         leading: Icon(Icons.menu),
-        title: Text('스마트비서1 로고'),
+        title: Text('스마트비1서1 로고'),
         foregroundColor: Color(3707764736),
         centerTitle: true,
         actions: [
